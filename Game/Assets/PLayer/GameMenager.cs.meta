@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f0741204de2e4de4d8d923f92091e1cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameOver: {fileID: 4196246506157026623, guid: 0228b6bb52046964c91f3a721ce86076, type: 3}
+  - Live0: {fileID: 1025436430936499294, guid: 96c3649e4d2b43a4d9b51901378dcbe9, type: 3}
+  - Live1: {fileID: 7882478370036070640, guid: 049649fae99fd474dbabea6836fb60e0, type: 3}
+  - Live2: {fileID: 1496185233212509991, guid: 8e31f593b138383498dde89447cad632, type: 3}
+  - Live3: {fileID: 6620055008236654468, guid: 73a5166089c20cd4e9ebdbf551eb17bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
